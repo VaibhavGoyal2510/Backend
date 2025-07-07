@@ -4,8 +4,12 @@
   "description": "Resume based ",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon src/index.js"
   },
   "author": "Vaibhav Goyal",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
