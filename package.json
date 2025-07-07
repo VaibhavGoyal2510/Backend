@@ -1,0 +1,11 @@
+{
+  "name": "piroject",
+  "version": "1.0.0",
+  "description": "Resume based ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vaibhav Goyal",
+  "license": "ISC"
+}
